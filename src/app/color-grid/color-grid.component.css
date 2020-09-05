@@ -1,0 +1,12 @@
+mat-grid-tile {
+    background: lightblue;
+    position: relative;
+    width: 100%!important;
+    height: 100px!important;
+}
+
+.flexGrid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

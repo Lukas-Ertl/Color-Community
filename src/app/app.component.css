@@ -1,0 +1,8 @@
+    .content {
+        position: relative;
+        display: block;
+        top: 56px;
+        height: calc(100vh - 56px - 56px);
+        max-height: calc(100vh - 56px - 56px);
+        overflow-y: scroll;
+    }

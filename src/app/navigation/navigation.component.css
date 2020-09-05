@@ -1,0 +1,10 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.nav {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
